@@ -1,0 +1,6 @@
+{
+  "name": "Shell People Analytics",
+  "description": "Executive workforce, attrition, compensation, and flight-risk analytics dashboard for Shell UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
